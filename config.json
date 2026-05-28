@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersalculate",
+        "uuid": 19421165,
+        "checksum": "7h3hap"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
